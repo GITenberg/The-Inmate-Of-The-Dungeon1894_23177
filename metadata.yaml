@@ -1,0 +1,31 @@
+_repo: The-Inmate-Of-The-Dungeon1894_23177
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morrow, W. C.
+    aliases:
+    - Morrow, W. C. (William Chambers)
+    - Morrow, William C.
+    birthdate: 1854
+    deathdate: 1923
+    gutenberg_agent_id: '24812'
+    url: http://www.gutenberg.org/2009/agents/24812
+description: ''
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: 'The Inmate Of The Dungeon
+
+  1894'
+url: http://www.gutenberg.org/ebooks/23177
